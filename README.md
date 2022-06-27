@@ -11,7 +11,7 @@ In this project I created a weather app, which uses an API from openweathermap t
 
 
 
-##IMAGE
+## IMAGE
 
 <img width="1051" alt="Screenshot 2022-06-27 at 9 49 35 PM" src="https://user-images.githubusercontent.com/99706585/175988234-8b5929f9-0cd9-4148-b25e-850f27c3ea5e.png">
 
@@ -21,6 +21,7 @@ In this project I created a weather app, which uses an API from openweathermap t
 
 => HTML5
 => CSS
+=> API
 => JAVASCRIPT
 
 ## Link 
