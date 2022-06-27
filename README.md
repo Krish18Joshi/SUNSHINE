@@ -13,14 +13,15 @@ In this project I created a weather app, which uses an API from openweathermap t
 
 ##IMAGE
 
-![Uploading Screenshot 2022-06-27 at 9.47.57 PM.png…]()
+<img width="1051" alt="Screenshot 2022-06-27 at 9 49 35 PM" src="https://user-images.githubusercontent.com/99706585/175988234-8b5929f9-0cd9-4148-b25e-850f27c3ea5e.png">
+
 
 
 ## Built with
 
 => HTML5
-=>CSS
-=>JAVASCRIPT
+=> CSS
+=> JAVASCRIPT
 
 ## Link 
 
