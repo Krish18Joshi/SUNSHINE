@@ -26,6 +26,6 @@ In this project I created a weather app, which uses an API from openweathermap t
 
 ## Link 
 
-LIVE URL=>   https://krishweather.000webhostapp.com/
+LIVE URL=>   https://krishweather.netlify.app/
 
 
